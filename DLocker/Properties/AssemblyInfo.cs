@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
 [assembly: AssemblyTitle("DLocker")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Программа, блокирующая компьютер от посторонних и не позволяющая уйти ему в спящий режим")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Алексей Пирогов")]
 [assembly: AssemblyProduct("DLocker")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
